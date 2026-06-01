@@ -4,7 +4,7 @@ A simple Python project that demonstrates how to build a reusable **DataLoader c
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 data_loader/
