@@ -4,21 +4,21 @@ A simple Python project that demonstrates how to build a reusable **DataLoader c
 
 ---
 
-## Project Structure
+## 📁 Project Structure
+
+```
 data_loader/
 │
 ├── data/
-│ └── students.csv
+│   └── students.csv
 │
 ├── src/
-│ └── data_loader.py
+│   └── data_loader.py
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
-
-
----
+```
 
 ## Features
 
