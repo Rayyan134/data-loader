@@ -14,10 +14,13 @@ data_loader/
 │
 ├── src/
 │   └── data_loader.py
+│   └── __init__.py
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
+├── .gitignore
+├── tests/
 ```
 
 ## Features
