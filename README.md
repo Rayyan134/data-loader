@@ -1,10 +1,10 @@
-# 📊 DataLoader Project
+# DataLoader Project
 
 A simple Python project that demonstrates how to build a reusable **DataLoader class** for reading CSV files and working with structured data using object-oriented programming.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 data_loader/
 │
 ├── data/
@@ -20,7 +20,7 @@ data_loader/
 
 ---
 
-## 🚀 Features
+## Features
 
 - Load CSV files into Python objects
 - Store data as a list of dictionaries
@@ -31,7 +31,7 @@ data_loader/
 
 ---
 
-## 📦 Example Dataset
+## Example Dataset
 
 **students.csv**
 name,grade
@@ -42,7 +42,7 @@ John,70
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The `DataLoader` class:
 
